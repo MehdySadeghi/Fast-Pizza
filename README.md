@@ -10,23 +10,6 @@ Whether you're craving a quick lunch or ordering dinner for friends and family, 
 
 ---
 
-## 📸 Preview
-
-> Add screenshots of your application here.
-
-### Home Screen
-
-```md
-![Fast Pizza Home](./screenshots/home.png)
-```
-
-### Cart & Order View
-
-```md
-![Fast Pizza Cart](./screenshots/cart.png)
-```
-
----
 
 ## ✨ Features
 
