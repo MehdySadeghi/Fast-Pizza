@@ -7,6 +7,7 @@ Whether you're craving a quick lunch or ordering dinner for friends and family, 
 ## 🚀 Live Demo
 
 **Try it here:** https://fast-pizza-opal.vercel.app
+**Try using a VPN if you are in Iran**
 
 ---
 
