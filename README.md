@@ -11,6 +11,18 @@ Whether you're craving a quick lunch or ordering dinner for friends and family, 
 
 ---
 
+## 📸 Preview
+
+```md
+![desktop version](./screenshots/desktop.png)
+```
+
+```md
+![mobile version](./screenshots/mobile.png)
+```
+
+---
+
 
 ## ✨ Features
 
